@@ -12,6 +12,9 @@ exactly as stated without the quotation marks.
 For the purposes of this program, valid passwords are between 8 to 16 characters (inclusive) containing at least 3 out of 4 of the following categories:
 
 (1) lower case letters, i.e., a-z
+
 (2) upper case letters, i.e., A-Z
+
 (3) numbers, i.e., 0-9
+
 (4) the following special symbols: ~!@#$%^&*()-=+_ */
